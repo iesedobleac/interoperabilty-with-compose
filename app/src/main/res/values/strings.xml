@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InteroperabilityWithCompose</string>
+
+    <string name="ingredients_message">Fragment with XML</string>
+</resources>
